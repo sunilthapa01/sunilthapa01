@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:3b82f6&height=200&section=header&text=(Dev)%20%3D%3E%20%7B%20Sunil%20Thapa%20%7D&fontSize=36&fontColor=60a5fa&fontAlignY=40&desc=Associate%20Software%20Developer%20%7C%202%20yrs%20exp%20%7C%20%F0%9F%90%89%20Code%20%2B%20Passion&descAlignY=65&descSize=16&descColor=94a3b8" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — width=435 fits all 3 lines without cutting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=const+dev+%3D+()%3D%3E+'Sunil+Thapa'%3B;React+%7C+Angular+%7C+Docker+%7C+GitLab+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=70&lines=const+dev+%3D+()%3D%3E+'Sunil'%3B;React+%7C+Redux+%7C+Angular+%F0%9F%94%A5;Docker+%7C+GitLab+%7C+2+yrs+exp" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,11 +15,11 @@
   <a href="https://www.linkedin.com/in/sunil-thapa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SunilThapa">
+  <a href="https://github.com/sunilthapa01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Collab-4ade80?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=SunilThapa&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=sunilthapa01&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -82,13 +82,13 @@ I specialise in **⚛️ React.js**, component architecture, and clean UI patter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunilThapa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=f97316&text_color=94a3b8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilThapa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sunilthapa01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=f97316&text_color=94a3b8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilthapa01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=94a3b8" height="165"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SunilThapa&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=sunilthapa01&theme=github-dark-blue&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569" width="60%"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ I specialise in **⚛️ React.js**, component architecture, and clean UI patter
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilThapa&theme=onestar&no-frame=true&no-bg=true&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sunilthapa01&theme=onestar&no-frame=true&no-bg=true&column=6"/>
 </div>
 
 ---
@@ -104,21 +104,21 @@ I specialise in **⚛️ React.js**, component architecture, and clean UI patter
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilThapa&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilthapa01&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 💼 Experience & What I Do
+## 💼 What I Build
 
-| 🔧 Area | 💡 What I Build |
+| 🔧 Area | 💡 What I Do |
 |---|---|
 | **React + Redux** | Scalable SPAs, state management, reusable UI components |
 | **Angular** | Enterprise-grade frontend apps, RxJS, NgModules |
 | **HTML/CSS/SCSS** | Pixel-perfect, responsive, mobile-first layouts |
 | **Tailwind CSS** | Utility-first rapid UI development |
 | **Docker** | Containerised dev environments & deployments |
-| **GitLab CI** | Basic pipeline config, merge requests, version control |
+| **GitLab CI** | Pipeline config, merge requests, version control |
 
 ---
 
